@@ -1,10 +1,10 @@
-# Dmitry's Resume
+# Dmytro's Resume
 
-Welcome! This is the repository containing Dmitry resume, an experienced mechanic who is seeking new opportunities in his career.
+Welcome! This is the repository containing Dmytro resume, an experienced mechanic who is seeking new opportunities in his career.
 
-## About Dmitry
+## About Dmytro
 
-Dmitry is an experienced mechanic from Ukraine with extensive experience in various fields. His expertise includes repairing and servicing various types of equipment, including cranes, valves, metallurgical equipment, as well as performing household repair work. He possesses skills in technical maintenance, repair, and equipment installation, and is ready for new challenges in the field of mechanics.
+Dmytro is an experienced mechanic from Ukraine with extensive experience in various fields. His expertise includes repairing and servicing various types of equipment, including cranes, valves, metallurgical equipment, as well as performing household repair work. He possesses skills in technical maintenance, repair, and equipment installation, and is ready for new challenges in the field of mechanics.
 
 ## Skills
 
@@ -19,4 +19,4 @@ Dmitry is an experienced mechanic from Ukraine with extensive experience in vari
 
 ## Why a New Job?
 
-Dmitry is eager for new challenges and is ready to apply his experience and skills in a new field. He is seeking an opportunity to develop professionally and succeed in the field of mechanics.
+Dmytro is eager for new challenges and is ready to apply his experience and skills in a new field. He is seeking an opportunity to develop professionally and succeed in the field of mechanics.
